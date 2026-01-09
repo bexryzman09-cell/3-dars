@@ -2,5 +2,8 @@
     box-sizing: border-box;
 }
 .text{
-    color: red;
+    color: rgb(235, 227, 15);
+}
+.active{
+    display: none;
 }
